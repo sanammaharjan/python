@@ -4,13 +4,6 @@ ans=input('''Are you ready?
 	Press "Y" if you are interested
 	Press "N" if you want to quit
 	Answer: ''')
-#n1=input("Write your first number: ")
-#op=input('''Pleae type your operator
-#	+ for addition
-#	- for substraction
-#	* for multiplication
-#	/ for division 
-#	Your operator is : ''')
 
 def calculate():
 	n1=int(input("Write your first number: "))
